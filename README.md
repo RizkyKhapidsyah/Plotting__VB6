@@ -53,4 +53,4 @@ End Type
 Peter Wester
 wester@kpd.nl
 29-01-02
-Publisher by Rizky Khapidsyah
+Published by Rizky Khapidsyah
